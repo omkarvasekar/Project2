@@ -300,6 +300,25 @@ a{
    font-family: 'Bree Serif', serif;
 
 }
+#submit-button{
+    display: block;
+    margin:auto;
+    border: 2px solid white;
+    border-radius: 15px;
+    padding:5px ;
+    padding-bottom: 2.5rem;
+    height: 3rem;
+    width:10rem;
+    margin-top: 1rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    
+    color: azure;
+    background-color:#a4dcd1 ;
+
+}
 
 
 footer{
